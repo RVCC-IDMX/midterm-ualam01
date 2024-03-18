@@ -19,6 +19,8 @@ h1, h2, h3, h4 {
     align-items: center;
 }
 
-div {
-    text-align: right;
+
+#bio {
+    text-align: center;
+    font-size: medium;
 }
